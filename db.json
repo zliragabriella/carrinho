@@ -1,0 +1,148 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"price": 69.99,
+			"name": "Saia de Couro",
+			"color": "Preto",
+			"imgUrl": "./src/assets/catalogo/feminino/1.jpg",
+			"category": "F"
+		},
+		{
+			"id": 2,
+			"price": 89.99,
+			"name": "Camisa Flanela",
+			"color": "Branco",
+			"imgUrl": "./src/assets/catalogo/feminino/2.jpg",
+			"category": "F"
+		},
+		{
+			"id": 3,
+			"price": 59.99,
+			"name": "Blusa Branca",
+			"color": "Branco",
+			"imgUrl": "./src/assets/catalogo/feminino/3.jpg",
+			"category": "F"
+		},
+		{
+			"id": 4,
+			"price": 59.99,
+			"name": "Blusa Bege",
+			"color": "Bege",
+			"imgUrl": "./src/assets/catalogo/feminino/4.jpg",
+			"category": "F"
+		},
+		{
+			"id": 5,
+			"price": 59.99,
+			"name": "Blusa Oncinha",
+			"color": "Preto",
+			"imgUrl": "./src/assets/catalogo/feminino/5.jpg",
+			"category": "F"
+		},
+		{
+			"id": 6,
+			"price": 59.99,
+			"name": "Blusa Palmeira",
+			"color": "Preto",
+			"imgUrl": "./src/assets/catalogo/feminino/6.jpg",
+			"category": "F"
+		},
+		{
+			"id": 7,
+			"price": 89.99,
+			"name": "Camisa Flanela",
+			"color": "Cinza",
+			"imgUrl": "./src/assets/catalogo/masculino/1.jpg",
+			"category": "M"
+		},
+		{
+			"id": 8,
+			"price": 119.99,
+			"name": "Sueter Gola Alta",
+			"color": "Azul",
+			"imgUrl": "./src/assets/catalogo/masculino/2.jpg",
+			"category": "M"
+		},
+		{
+			"id": 9,
+			"price": 109.99,
+			"name": "Camisa Rick Morty Manga Curta",
+			"color": "Preto",
+			"imgUrl": "./src/assets/catalogo/masculino/3.jpg",
+			"category": "M"
+		},
+		{
+			"id": 10,
+			"price": 109.99,
+			"name": "Camisa Gola Polo",
+			"color": "Cinza",
+			"imgUrl": "./src/assets/catalogo/masculino/4.jpg",
+			"category": "M"
+		},
+		{
+			"id": 11,
+			"price": 109.99,
+			"name": "Camisa Florida Manga Curta",
+			"color": "Cinza",
+			"imgUrl": "./src/assets/catalogo/masculino/5.jpg",
+			"category": "M"
+		},
+		{
+			"id": 12,
+			"price": 129.99,
+			"name": "Camisa  Manga Longa",
+			"color": "Bege",
+			"imgUrl": "./src/assets/catalogo/masculino/6.jpg",
+			"category": "M"
+		},
+		{
+			"id": 13,
+			"price": 69.99,
+			"name": "Camisa Stitch Manga Longa",
+			"color": "Rosa",
+			"imgUrl": "./src/assets/catalogo/infantil/1.jpg",
+			"category": "I"
+		},
+		{
+			"id": 14,
+			"price": 69.99,
+			"name": "Camiseta Sonic",
+			"color": "Branca",
+			"imgUrl": "./src/assets/catalogo/infantil/2.jpg",
+			"category": "I"
+		},
+		{
+			"id": 15,
+			"price": 99.99,
+			"name": "Vestido Flanela",
+			"color": "Vermelho",
+			"imgUrl": "./src/assets/catalogo/infantil/3.jpg",
+			"category": "I"
+		},
+		{
+			"id": 16,
+			"price": 69.99,
+			"name": "Camiseta Dinossauros",
+			"color": "Laranja",
+			"imgUrl": "./src/assets/catalogo/infantil/4.jpg",
+			"category": "I"
+		},
+		{
+			"id": 17,
+			"price": 119.99,
+			"name": "Moletom Minnie",
+			"color": "Vermelho",
+			"imgUrl": "./src/assets/catalogo/infantil/5.jpg",
+			"category": "I"
+		},
+		{
+			"id": 18,
+			"price": 109.99,
+			"name": "Vestido Oncinha",
+			"color": "Preto",
+			"imgUrl": "./src/assets/catalogo/infantil/6.jpg",
+			"category": "I"
+		}
+	]
+}

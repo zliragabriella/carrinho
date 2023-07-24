@@ -1,0 +1,32 @@
+.product-card-container {
+	width: 16rem;
+	height: 25rem;
+  border-radius: 8px;
+  background-color: #f1f5f9;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.product-card-image {
+	height: 80%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.product-card-name {
+	color: var(--darkGray);
+  font-family: 'Montserrat', 'Inter';
+  font-weight: 500;
+  text-align: center;
+}
+
+.product-card-price{
+  color: var(--darkGray);
+  font-family: 'Montserrat', 'Inter';
+  font-weight: 400;
+}

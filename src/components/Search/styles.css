@@ -1,0 +1,15 @@
+.search-container{
+  display: flex;
+  gap: 6px;
+}
+
+.search-input{
+  color: var(--darkGray);
+  font-family: 'Montserrat', 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: var(--white);
+  border: 1px solid var(--borderGray);
+  border-radius: 8px;
+  padding: 0.5rem;
+}
